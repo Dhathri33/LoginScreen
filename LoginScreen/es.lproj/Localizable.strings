@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  LoginScreen
+
+  Created by Dhathri Bathini on 11/18/25.
+  
+*/
+
+"email_placeholder" = "Introduce tu correo electrónico";
+"password_placeholder" = "Introduce tu contraseña";

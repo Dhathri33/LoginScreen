@@ -9,6 +9,7 @@ import SwiftUI
 
 @main
 struct LoginScreenApp: App {
+    @StateObject private var loginObserver = LoginObserver()
     var body: some Scene {
         WindowGroup {
             ContentView()
